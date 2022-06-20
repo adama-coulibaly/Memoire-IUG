@@ -1,0 +1,116 @@
+
+/*************************HOME*****************************/
+body
+{
+	margin-top: 20px;background: url('../img/bg2.jpg');
+	background-repeat: repeat-y;margin-top: 50px;
+	background-attachment: fixed;
+}
+@media(max-width: 720px)
+{
+	
+	.carousel-item
+	{
+		max-height: 300px;
+	}
+
+	.carousel-item img
+	{
+		max-height: 300px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+.boite_GS
+{
+	background-color: #75f5f5;
+}
+.boite_GS a
+{
+	text-decoration: none;
+	color: #af1d07;
+
+}
+.boite_GS strong
+{
+	background-color: white;text-align: center;
+	border-radius: 10px;box-shadow: 2px 2px black;
+	color: blue;
+}
+.card-footer
+{
+	font-weight: bold;
+	text-align: right;
+}
+.card-footer span
+{
+	background-color: red;border-radius: 10px;
+	padding: 5px;color: white;
+}
+
+
+section.nos_services
+{
+	background: url('../img/bg2.jpg');
+}
+section.nos_services h1
+{
+	color: white; text-align: center;
+}
+section.nos_services #Title
+{
+	color: white; text-align: center;
+	text-transform: uppercase;text-decoration: underline;
+	margin: 5px auto;
+}
+.marquee
+{
+color: white;text-shadow: 1px 2px blue;
+}
+section.Situation_Medicals
+{
+	margin: 20px auto;
+}
+section.Situation_Medicals .compte-block
+{
+	margin: 5px auto;padding: 10px auto;
+	border: 1px solid black;
+	border-radius: 20px -5px;
+	text-align: center;background-color: #53efb6;
+}
+section.Situation_Medicals .compte-block h3
+{
+	color: black; text-align: center; font-weight: bold;
+	text-decoration: underline;
+}
+section.Situation_Medicals .compte-block img
+{
+	border: 3px solid yellow;background-color: white;
+}
+
+section.bleu
+{
+	color: red;width: 100%;height: 100%;
+	background: url('../img/bg2.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
+

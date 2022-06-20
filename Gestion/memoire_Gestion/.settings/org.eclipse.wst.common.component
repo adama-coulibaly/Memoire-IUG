@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="memoire_Gestion">
+                
+        <wb-resource deploy-path="/" source-path="/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/webapp/WEB-INF/lib"/>
+                
+        <property name="context-root" value="memoire_Gestion"/>
+                
+        <property name="java-output-path" value="/memoire_Gestion/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>

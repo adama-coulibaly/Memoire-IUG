@@ -1,0 +1,38 @@
+.my_Cases {
+  display: flex;
+  flex-wrap: nowrap;
+  height: -webkit-fill-available;
+  overflow:visible;
+}
+
+.divisers_cols {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 50vh;
+}
+
+ @media  screen and (max-width: 480px)
+ {
+        .my_Cases {
+               display: flex;
+               overflow: visible;
+            } 
+ }
+/*.marquee:hover
+{
+  
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
